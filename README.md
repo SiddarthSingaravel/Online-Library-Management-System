@@ -21,4 +21,4 @@ This is a step taken for borrowers to view the books available in the library on
     * Import database library2.sql 
 
 ## Thanks
-*Shreyas Madhav A V* and *Chandra Prakash* for contributing towards this project.
+*[Shreyas Madhav A V](https://github.com/Shreyas-Madhav)* and *Chandra Prakash* for contributing towards this project.
