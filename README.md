@@ -15,7 +15,7 @@ This is a step taken for borrowers to view the books available in the library on
 2) Navigate into the xampp folder to locate *htdocs*.
 3) Create a new folder inside it and paste the *src* files.
 4) Launch the xampp control pannel and start *Apache* and *MySQL* modules.
-5) Type localhost:*{port number}* on your website. ***default: 80 ***
+5) Type localhost:*{port number}* on your website.**default: 80**
 6) Open phpmyadmin 
     * Create Database library
     * Import database library2.sql 
